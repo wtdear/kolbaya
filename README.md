@@ -1,66 +1,50 @@
-<h1 align="center">🌑 Welcome to My Space</h1>
+<h1 align="center" style="font-weight: normal; letter-spacing: 8px;">
+  W E L C O M E
+</h1>
 
 <p align="center">
-  <img src="assets/photo1.jpg" width="350" style="border-radius: 12px;">
+  <img src="assets/header.gif" width="350" />
+</p>
+
+---
+
+## 🩶 About Me
+
+- I linger in quiet, melancholic aesthetics  
+- I create things in silence — code, ideas, fragments of worlds  
+- I prefer minimalism over noise  
+- My comfort zone: dark palette, cold tones, and concentration  
+
+---
+
+## 🩶 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-111111?style=flat&logo=csharp&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/DART-111111?style=flat&logo=dart&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/FLUTTER-111111?style=flat&logo=flutter&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/PYTHON-111111?style=flat&logo=python&logoColor=ffffff">
+</p>
+
+---
+
+## 🩶 Mood
+
+<p align="center">
+  <img src="assets/mood.jpg" width="350" />
+</p>
+
+---
+
+## 🩶 Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=ffffff&text_color=bbbbbb&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <i>
-    “Sometimes silence is the loudest language.”  
-    <br>— melancholic lines of code
-  </i>
+  <sub>quietly crafted · monochrome · gothic</sub>
 </p>
-
----
-
-## 🖤 About Me
-
-- 🌫 I like calm, melancholic aesthetics  
-- 💻 I create things quietly — code, ideas, small worlds  
-- 🌊 I enjoy minimalism in both design and life  
-- ☕ My comfort zone: dark palette, music, and programming  
-
----
-
-## 🧩 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=csharp&logoColor=000000">
-  <img src="https://img.shields.io/badge/Dart-ffffff?style=for-the-badge&logo=dart&logoColor=000000">
-  <img src="https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=000000">
-  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000">
-</p>
-
----
-
-## 🌙 Aesthetic Moodboard
-
-<p align="center">
-  <img src="assets/photo2.jpg" width="350" style="border-radius: 12px; margin-right: 10px;">
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🐚 Contact
-
-<p align="center">
-  <i>If you want to reach me, you probably already know how.</i>
-</p>
-
----
-
-<p align="center">
-  <sub>🖤 crafted in silence 🖤</sub>
-</p>
-# kolbaya
