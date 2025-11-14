@@ -1,57 +1,42 @@
-<!-- Готический шрифт через SVG -->
+<!-- Анимированная надпись WELCOME -->
 <p align="center">
-  <img src="https://svgshare.com/i/15yC.svg" width="400">
-</p>
-
-<!-- ASCII ART -->
-<pre align="center">
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣠⡾⠛⠉⠉⠉⠛⢷⣄⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣸⠏⠀⠀⣀⣀⠀⠀⠀⠹⣇⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣿⠀⣠⣾⣿⣿⣷⣄⠀⢸⣿⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣿⢠⣿⣿⣿⣿⣿⣿⡄⣿⣿⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣿⢸⣿⣿⣿⣿⣿⣿⡇⣿⣿⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣿⠘⣿⣿⣿⣿⣿⣿⠃⣿⣿⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢿⣄⠙⠻⣿⣿⠟⠋⣠⡿⡇⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠙⠳⣤⣀⣀⣤⠞⠋⠀⠀⠀⠀⠀⠀⠀
-</pre>
-
-<p align="center">
-  <img src="assets/header.gif" width="350" />
+  <img src="https://readme-typing-svg.demolab.com?font=svg&color=BE25F7&lines=welcome;to+my+profile" />
 </p>
 
 ---
 
-## 🖤 About Me
+<div align="center">
+  
+# 🖤 **About Me**
 
-- I exist in silence and monochrome  
-- My code follows minimalistic, cold aesthetics  
-- I create small worlds, fragments, structures  
-- I’m drawn to dark palettes, quiet atmospheres, and depth  
+🌑 Люблю создавать проекты в тёмной эстетике  
+🕸️ Пишу код, изучаю новые технологии  
+⚔️ Всегда готов улучшать свой профиль и проекты
+
+</div>
 
 ---
 
-## 🖤 Tech Stack
+## 🕯️ Contacts
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/DART-000000?style=flat&logo=dart&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/FLUTTER-000000?style=flat&logo=flutter&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=ffffff">
+  <a href="https://t.me/yourusername">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="mailto:your@mail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://github.com/yourgithub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 🖤 Contacts
+<div align="center">
 
-<p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM" style="color:#ffffff; text-decoration:none;">Telegram</a> •
-  <a href="https://instagram.com/YOUR_INSTAGRAM" style="color:#ffffff; text-decoration:none;">Instagram</a> •
-  <a href="mailto:YOUR_EMAIL" style="color:#ffffff; text-decoration:none;">Email</a>
-</p>
+### 🦇 *Thanks for visiting my dark corner of GitHub*
 
----
-
-<p align="center">
-  <sub>crafted in darkness · gothic minimalism</sub>
-</p>
+</div>
