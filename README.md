@@ -4,7 +4,7 @@
 </a>
 
 <p align="center">
-  <img src="assets/photo1.jpg" width="350" style="border-radius: 12px;">
+  <img src="assets/melancholy.jpg" width="350" style="border-radius: 12px;">
 </p>
 
 ---
