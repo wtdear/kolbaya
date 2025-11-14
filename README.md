@@ -1,9 +1,5 @@
 <!-- Анимированная надпись WELCOME -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=svg&size=60&duration=3000&pause=1000&color=AD0CC7&center=true&vCenter=true&width=435&lines=welcome;to+my+profile" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=svg&size=60&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Welcome!%2C;to+my+profile+%3A3" alt="Typing SVG" /></a>
 
 ---
 
